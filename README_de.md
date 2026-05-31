@@ -1,6 +1,6 @@
 # Hallo, ich bin Pierre Bieber! 👋
 
-[![In English](https://img.shields.io/badge/In%20English-English%20%F0%9F%87%BA%F0%9F%87%B8-blue?style=flat-square)](./README.md)
+[![In English](https://img.shields.io/badge/In%20English-darkgreen?style=flat-square)](./README.md)
 
 ---
 
