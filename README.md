@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Pierre Bieber! 👋
 
-<!--
-**p-bieber/p-bieber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Auf Deutsch](https://img.shields.io/badge/Auf%20Deutsch-Deutsch%20%F0%9F%87%A9%F0%9F%87%AA-darkgreen?style=flat-square)](./README_de.md)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software developer focusing on the modern .NET ecosystem stack, DevOps automation, and self-hosted infrastructures.
+
+---
+
+## 🛠️ Tech Stack & Interests
+
+- **Backend & Web:** C# / .NET, ASP.NET Core, Blazor
+- **DevOps & Server:** Docker, Traefik, CI/CD Pipelines
+- **Sovereignty:** Passionate self-hoster of privacy-friendly open-source alternatives
+
