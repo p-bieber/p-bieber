@@ -1,12 +1,7 @@
-# Hi there, I'm Pierre Bieber! 👋
-
-[![Auf Deutsch](https://img.shields.io/badge/Auf%20Deutsch-darkgreen?style=flat-square)](./README_de.md)
-
----
+# Hi there, I'm Pierre Bieber! 👋 [![Auf Deutsch](https://img.shields.io/badge/Auf%20Deutsch-darkgreen?style=flat-square)](./README_de.md)
 
 I am a software developer focusing on the modern .NET ecosystem stack, DevOps automation, and self-hosted infrastructures.
 
----
 
 ## 🛠️ Tech Stack & Interests
 
